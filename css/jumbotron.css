@@ -39,3 +39,9 @@ ul.nav
 	font-weight: 100px;
 	padding: 0 50px;
 }
+
+.emphasis
+{
+	color: red;
+	font-size: 26px;
+}
