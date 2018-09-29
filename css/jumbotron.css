@@ -73,6 +73,13 @@ ul.nav
 	color: #e74c3c;
 }
 
+.homepage a:hover
+{
+	color: #e74c3c;
+	text-decoration: none;
+	opacity: .8;
+}
+
 .homepage hr
 {
 	border-color: #e74c3c;
