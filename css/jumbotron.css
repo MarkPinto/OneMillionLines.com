@@ -2,7 +2,6 @@
 body 
 {
   padding-top: 50px;
-  padding-bottom: 20px;
 }
 
 .jumbotron
@@ -25,6 +24,13 @@ ul.nav, .jumbotron h1
 ul.nav
 {
 	font-size: 13px;
+}
+
+footer
+{
+	background-color: #f74c3c;
+	padding-top: 150px;
+	padding-bottom: 30px;
 }
 
 #get-involved
